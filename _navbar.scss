@@ -1,0 +1,42 @@
+.navbar{
+    position: fixed;
+    display: flex;
+    background-color: transparent;
+    justify-content: space-between;
+    width: 100%;
+    top: 0;
+    left: 0;
+    color: $text-color;
+    padding: 20px;
+    align-items: center;
+    z-index: 2;
+    
+    &-logo span{
+        color: $thirdy-color;
+    }
+    &-logo{
+        font-size: 30px;
+        margin-left: 30px;
+        box-shadow: 0px 10px 5px 0px rgba(0,0,0,0.40);
+    }
+
+    &-links{
+        display: flex;
+        list-style: none;
+        gap: 10px;
+        align-items: center;
+
+        li{
+            a{
+                color: $text-color;
+
+                &:hover{
+                    border-bottom: 1px solid $thirdy-color;
+                    border-radius: 30px;
+                }
+            }
+        }
+
+    }
+
+}

@@ -1,0 +1,18 @@
+.footer{
+    background-color: $secondary-color;
+   color: $text-color;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   list-style: none;
+   gap: 20px;
+   width: 100%;
+   height: 80px;
+   &-left{
+    list-style: none;
+    margin-left: 30px;
+   }
+   
+   
+
+}

@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Montserrat:wght@300;400;500;600;700&family=Poppins:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;1,600&family=Sedgwick+Ave&family=Trade+Winds&family=Underdog&display=swap');
+
+   
+    @import "variables";
+    @import "component";
+    @import "navbar";
+    @import "header";
+    @import "events";
+    @import "explore";
+    @import "tours";
+    @import "footer";
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+ .navbar ul li a i{
+    display: none;
+    
+}
+.son{
+    text-align: center;
+}
+
+
