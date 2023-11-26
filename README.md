@@ -6,8 +6,6 @@
 
 <h3>Project gif</h3>
 
+![ezgif com-optimize (4)](https://github.com/nazanyilmaz/Bakery/assets/147782488/5f0bbf51-8cb2-426b-b999-6d5a5af437a7)
 
-
-
-https://github.com/nazanyilmaz/Bakery/assets/147782488/5f5be130-4db0-4383-bac5-46eb248810bb
 
